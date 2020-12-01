@@ -1,0 +1,4 @@
+->Hacer las funciones importantes (solo tengo las rutas hechas)
+->Revisar en cada funcion importante el "respuestas.html" 
+	es donde voy a mostrar el promedio y para el caso del agregarC mostrar el nombre del bato
+-> considerar solo poner el case: POST en cada funcion importante 
